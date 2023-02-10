@@ -1,0 +1,7 @@
+{
+  "name": "mt0",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://mt0.google.com/$1"}
+  ]
+}
